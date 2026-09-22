@@ -311,7 +311,7 @@ The project can be further improved by:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-**RAKSHANA**
+**KIRITHIK**
 
