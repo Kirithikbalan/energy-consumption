@@ -313,6 +313,5 @@ The project can be further improved by:
 
 ## 👩‍💻 Author
 
-**Vasundhra**
+**RAKSHANA**
 
-BCA Student | Aspiring Full Stack Developer & Data Analyst
